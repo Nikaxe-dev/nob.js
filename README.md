@@ -1,3 +1,5 @@
+**ARCHIVED: THIS PROJECT WAS REALLY BAD LOL**
+
 Framework for creating games! Don't expect anything good, as i haven't been using JavaScript for too long.
 
 Just supposed to be a small project that i can reuse for my games. (unless i haven't already made a better version of this)
